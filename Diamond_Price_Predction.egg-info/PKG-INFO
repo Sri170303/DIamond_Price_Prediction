@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Diamond_Price_Predction
+Version: 0.0.1
+Author: Sri Darsan Sah
+Author-email: sridarsansah5907@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
+Requires-Dist: seaborn
